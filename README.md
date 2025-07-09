@@ -2,8 +2,8 @@
 
 <br>
  
-## Badge
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wggw)
+## Algorithm Profile (Baekjoon)
+![Ranked Badge](https://mazassumnida.wtf/api/v2/generate_badge?boj=wggw)
 
 <br>
 
