@@ -1,5 +1,12 @@
 <h1 align="center">📘 Baekjoon 알고리즘 풀이 저장소</h1>
 
+<br>
+ 
+## Badge
+![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wggw)
+
+<br>
+
 ## 💻 언어별 풀이 폴더
 
 | 언어 | 설명 |
