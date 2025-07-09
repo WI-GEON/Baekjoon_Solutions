@@ -15,7 +15,7 @@
 |------|------|
 | 총 풀이 수 | 🧩 0문제 (업데이트 예정) |
 | 사용 언어 | ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
-| IDE       | ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=JetBrains&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) |
+| IDE       | ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=JetBrains&logoColor=white) <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logoColor=white"/> |
 
 ---
 
