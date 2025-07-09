@@ -1,0 +1,20 @@
+# C#
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.csproj
+*.vbproj
+*.vcxproj
+*.ncb
+*.sdf
+*.sln
+bin/
+obj/
+
+# C++
+*.out
+*.o
+*.gch
+*.exe
